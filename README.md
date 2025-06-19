@@ -1,2 +1,2 @@
 # HeartFailure-PredictiveModel
-Repositório contendo um modelo preditivo para insuficiência cardíaca, desenvolvido com técnicas de machine learning.
+Repositório contendo um modelo preditivo para insuficiência cardíaca, desenvolvido com técnicas de machine learning. Inclui pré-processamento de dados, análise exploratória, treinamento de modelos e avaliação de desempenho. O objetivo é prever o risco de insuficiência cardíaca com base em indicadores clínicos, auxiliando em diagnósticos precoces e intervenções médicas.
